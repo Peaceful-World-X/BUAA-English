@@ -1,10 +1,40 @@
 # 硕博研究生英语综合教程 📚
 
-> 郭巍等编｜ISBN：9787300292540
+所有 PDF 和离线 HTML 文件统一放在 GitHub Releases，Zotero 组记录论文原稿和中英译文：
 
-英语课使用的《硕博研究生英语综合教程》资料整理，包含教材、教师用书、课程课件，以及教材 RA（Research Article）对应的 SCI 论文原稿和中英译文。🦜📖
+👉 [下载全部资料 - GitHub Releases](https://github.com/Peaceful-World-X/BUAA-English/releases)
+
+👉 [加入Zotero组 - groups/5892796](https://www.zotero.org/groups/5892796)
+
+
+### 📘 [第二版 Zotero 论文库](http://e.crup.cn/preview.html?bsno=69283)
+
+- **作者：** 郭巍、邢春丽、孙洪丽
+- **ISBN：** 9787300353265
+
+<p align="center">
+  <a href="http://e.crup.cn/preview.html?bsno=69283">
+    <img src="assets/002.png" alt="硕博研究生英语综合教程（第二版）封面" width="500">
+    <img src="assets/002-2.png" alt="硕博研究生英语综合教程（第二版）目录" width="500">
+  </a>
+</p>
+
+### 📗 [第一版 Zotero 论文库](http://e.crup.cn/preview.html?bsno=52907)
+
+- **作者：** 郭巍、邢春丽、孙洪丽
+- **ISBN：** 9787300292540
+
+<p align="center">
+  <a href="http://e.crup.cn/preview.html?bsno=52907">
+    <img src="assets/001.png" alt="硕博研究生英语综合教程封面" width="500">
+    <img src="assets/001-2.png" alt="硕博研究生英语综合教程目录" width="500">
+  </a>
+</p>
+
 
 ## 📦 资料内容
+
+🦜英语课使用的《硕博研究生英语综合教程》资料整理，包含教材、教师用书、课程课件，以及教材 RA（Research Article）对应的 SCI 论文原稿和中英译文。
 
 - 📘 教材 PDF（OCR）
 - 📝 教师用书 PDF（含答案）
@@ -15,10 +45,6 @@
 - 🌏 论文中英译文（Zotero 整理）
 
 ## ⬇️ 下载
-
-所有 PDF 和离线 HTML 文件统一放在 GitHub Releases：
-
-👉 [下载全部资料](https://github.com/Peaceful-World-X/BUAA-English/releases)
 
 | 文件 | 说明 |
 | --- | --- |
