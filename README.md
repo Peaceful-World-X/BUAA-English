@@ -6,7 +6,7 @@
 
 👉 [下载全部资料 - GitHub Releases](https://github.com/Peaceful-World-X/BUAA-English/releases)
 
-👉 [加入Zotero组 - groups/5892796](https://www.zotero.org/groups/5892796)
+👉 [加入Zotero组 - groups/5892796](https://www.zotero.org/groups/5892796)(一般当天就给通过了~)
 
 
 ### 📘 [第二版 Zotero 论文库](https://www.zotero.org/groups/5892796)
