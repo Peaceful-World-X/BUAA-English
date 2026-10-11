@@ -7,7 +7,7 @@
 👉 [加入Zotero组 - groups/5892796](https://www.zotero.org/groups/5892796)
 
 
-### 📘 [第二版 Zotero 论文库](http://e.crup.cn/preview.html?bsno=69283)
+### 📘 [第二版 Zotero 论文库](https://www.zotero.org/groups/5892796)
 
 - **作者：** 郭巍、邢春丽、孙洪丽
 - **ISBN：** 9787300353265
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-### 📗 [第一版 Zotero 论文库](http://e.crup.cn/preview.html?bsno=52907)
+### 📗 [第一版 Zotero 论文库](https://www.zotero.org/groups/5892796)
 
 - **作者：** 郭巍、邢春丽、孙洪丽
 - **ISBN：** 9787300292540
