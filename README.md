@@ -1,6 +1,6 @@
-# 硕博研究生英语综合教程📚（如果对你有用，欢迎Star⭐~） 
+# 硕博研究生英语综合教程📚
 
-所有 PDF 和离线 HTML 文件统一放在 GitHub Releases，Zotero 组记录论文原稿和中英译文：
+**（如果对你有用，欢迎Star⭐~）** 所有 PDF 和离线 HTML 文件统一放在 GitHub Releases，Zotero 组记录论文原稿和中英译文：
 
 👉 [下载全部资料 - GitHub Releases](https://github.com/Peaceful-World-X/BUAA-English/releases)
 
